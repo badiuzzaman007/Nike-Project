@@ -1,0 +1,126 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#img src{
+    padding: 100px;
+    padding-left:50%;
+    padding-right:80%;
+    width: 10px; height: 30vh;
+    display:flex-inline;
+    font-size: 20px;
+}
+#logo{
+    color: brown;
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#logo li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 17px;
+    color: black;
+}
+#shoe{
+    width: 5px; height: 400px;
+    padding-left: 40%;
+    padding-bottom:10%;
+    display: inline;
+}
+#cptl{
+    color: black;
+    size: 50px;
+    display:block;
+    padding-left: 70px;
+    font-weight: 40;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+#prog{
+    color: black;
+    font-size: 10px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 700px;
+    padding-right: 20px;
+    padding-left: 15px;
+    
+}
+#button{
+    padding: 20px 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 50px;
+    border-top: 20px;
+    display:inline;
+    position:relative;
+    border-left: 40px;
+    border-right: 50px;
+
+}
+#shop:hover{
+    color:blood;
+    transform: scale(1.3);
+    justify-content: space-between;
+    text-align: center;
+
+}
+#service{
+    width: 20px;
+    height: 200px;
+    padding-left: 400px;
+    text-align: center;
+
+}
+#Contract{
+    color: black;
+    text-align:left;
+padding-top: 60px;
+padding-bottom: 40px;
+text-align: center;
+
+}
+#call{
+    padding: 20px 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 50px;
+    border-top: 20px;
+    display:inline;
+    position:relative;
+    border-left: 40px;
+    border-right: 50px;
+
+}
+#form{
+    width: 50px;
+    height: 0px;
+    padding:30px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    text-align: start;
+    padding-top: 70px;
+    display: flex;
+
+}
+#service{
+    height: 20%;
+    width: 30px;
+    padding-top: 0px;
+    padding-left: 60%;
+    padding-bottom: 90%;
+
+}
